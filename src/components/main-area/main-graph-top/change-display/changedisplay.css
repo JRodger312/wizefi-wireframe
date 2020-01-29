@@ -1,0 +1,15 @@
+.change-display{
+    display:flex;
+}
+
+.timeframe{
+    padding-right:8px;
+    align-self:flex-end;    
+}
+
+.amount {
+    color: #1abc9c;
+    font-size: 1.1em;
+    font-weight: bold;
+    align-self:flex-end;
+}

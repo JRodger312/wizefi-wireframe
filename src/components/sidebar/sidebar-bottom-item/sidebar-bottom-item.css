@@ -1,0 +1,9 @@
+.sidebar-bottom-item {
+    width:100%;
+    display: inline;
+    padding: 10px 10px 10px 10px;
+    justify-content: center;
+    align-content: center;
+    border: 3px solid #2d3e51;
+    text-align: center;
+}

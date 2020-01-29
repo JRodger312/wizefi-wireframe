@@ -1,0 +1,28 @@
+
+.info-tab-bar{
+    display:flex;
+    width:95%;
+    border-bottom: 3px solid #ccd2d6;
+    color:#bdc3c7;
+}
+
+
+.info-tab-bar ul {
+    height:100%;
+    margin:0;
+    padding:0;
+}
+
+.info-tab-bar ul li{
+    height:100%;
+    display: inline-block;
+    margin:0;
+    padding:0 30px 20px 30px;
+    font-weight:bold;
+    font-size: 1.25em
+}
+
+.info-tab-bar ul li:hover {
+    color: #3498db;
+    border-bottom: 4px solid #3498db;
+}

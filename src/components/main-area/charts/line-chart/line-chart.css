@@ -1,0 +1,14 @@
+.line-chart{
+    display:flex;
+    height:100%;
+    width:100%;
+}
+
+/* #myChart{
+    display:flex;
+    width:100%
+} */
+
+canvas{
+    padding:15px;
+}
